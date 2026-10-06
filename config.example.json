@@ -1,0 +1,9 @@
+{
+  "telegram_bot_token": "",
+  "telegram_chat_id": "",
+  "rsi_period": 14,
+  "oversold": 30,
+  "interval_minutes": 10,
+  "min_24h_volume_usdt": 0,
+  "language": "en"
+}

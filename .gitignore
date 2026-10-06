@@ -1,0 +1,11 @@
+# Secrets - never commit
+config.json
+.env
+
+# Runtime files
+state.json
+*.log
+
+# Python
+__pycache__/
+*.pyc
